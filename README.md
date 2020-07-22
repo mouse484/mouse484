@@ -11,7 +11,7 @@ const Mouse = {
     "C/C++": ["Robot", "Arduino"],
   },
   learning: ["English", "More JavaScript"],
-  hobbies: ["Codeing", "Gaming", "Talking"],
+  hobbies: ["Codeing", "Gameing", "Talking"],
   environment: "Mostly in the cloud, thanks to Gitpod.",
   contact: {
     Twitter: "@mouse_484",
