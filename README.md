@@ -28,11 +28,9 @@ const Mouse = {
 ### Discord.js Framework
 
 [![Ecstar](https://github-readme-stats.vercel.app/api/pin/?username=mouse484&repo=ecstar)](https://github.com/mouse484/Ecstar)
+[![Ecstar](https://github-readme-stats.vercel.app/api/pin/?username=Ecstar-js&repo=Ecstar)](https://github.com/Ecstar-js/Ecstar)
 
 ### Node.js Setup
-[![My Node Setup](https://github-readme-stats.vercel.app/api/pin/?username=mouse484&repo=my-node-setup)](https://github.com/mouse484/my-node-setup)
-
-**I'm rewriting.**
 
 [![My Node Setup Next](https://github-readme-stats.vercel.app/api/pin/?username=mouse484&repo=my-node-setup-next)](https://github.com/mouse484/my-node-setup-next)
 
