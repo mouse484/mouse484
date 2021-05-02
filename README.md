@@ -24,6 +24,9 @@ const Mouse = {
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Vue.js] インラインスタイルを使用する](https://zenn.dev/mouse_484/articles/vue-inline-style)
+- [Nuxt.js AxiosでCORSエラーを直す(Proxy)](https://zenn.dev/mouse_484/articles/nuxt-axios-cors)
+- [Gitpod + Zenn CLIを使ってクラウドIDEで記事作成](https://zenn.dev/mouse_484/articles/de0f41fca07259c60b08)
 <!-- BLOG-POST-LIST:END -->
 
 ![Mouse's github stats](https://github-readme-stats.vercel.app/api?username=mouse484&show_icons=true)
