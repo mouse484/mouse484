@@ -10,10 +10,9 @@ I'm mouse from japan.
 [![Zenn](https://img.shields.io/badge/-Zenn_Posts-e6f2ff.svg?logo=zenn&style)](https://zenn.dev/mouse_484)
 
 <!-- BLOG-POST-LIST:START -->
-
 - [[Vue.js] インラインスタイルを使用する](https://zenn.dev/mouse_484/articles/vue-inline-style)
-- [Nuxt.js Axios で CORS エラーを直す(Proxy)](https://zenn.dev/mouse_484/articles/nuxt-axios-cors)
-- [Gitpod + Zenn CLI を使ってクラウド IDE で記事作成](https://zenn.dev/mouse_484/articles/de0f41fca07259c60b08)
+- [Nuxt.js AxiosでCORSエラーを直す(Proxy)](https://zenn.dev/mouse_484/articles/nuxt-axios-cors)
+- [Gitpod + Zenn CLIを使ってクラウドIDEで記事作成](https://zenn.dev/mouse_484/articles/de0f41fca07259c60b08)
 <!-- BLOG-POST-LIST:END -->
 
 # Stats
