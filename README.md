@@ -18,7 +18,10 @@ I'm mouse from japan.
 
 # Stats
 
-![Mouse's github stats](https://github-readme-stats.vercel.app/api?username=mouse484&show_icons=true)
+![Mouse's github stats](https://github-readme-stats.vercel.app/api?username=mouse484&show_icons=true&line_height=24)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouse484&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 # Working
 
