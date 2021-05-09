@@ -10,6 +10,7 @@ I'm mouse from japan.
 [![Zenn](https://img.shields.io/badge/-Zenn_Posts-e6f2ff.svg?logo=zenn&style)](https://zenn.dev/mouse_484)
 
 <!-- BLOG-POST-LIST:START -->
+- [rollup.jsで警告を無視する](https://zenn.dev/mouse_484/articles/rollup-suppress-warning-messages)
 - [semantic-releaseとGitHub Actionsでnpmへいい感じに自動でリリースする](https://zenn.dev/mouse_484/articles/semantic-release-githubactions-npm)
 - [[Vue.js] インラインスタイルを使用する](https://zenn.dev/mouse_484/articles/vue-inline-style)
 - [Nuxt.js AxiosでCORSエラーを直す(Proxy)](https://zenn.dev/mouse_484/articles/nuxt-axios-cors)
