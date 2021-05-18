@@ -3,7 +3,7 @@
 I'm mouse from japan.
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/mouse_484)
-[![GitHub](https://img.shields.io/badge/-Github-181717.svg?logo=github&style)](https://github.com/mouse484)
+[![GitHub](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square)](https://github.com/mouse484)
 
 #
 
