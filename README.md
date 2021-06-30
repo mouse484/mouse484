@@ -29,7 +29,7 @@ I'm mouse from japan.
 ### Discord.js Framework
 
 [![Ecstar](https://github-readme-stats.vercel.app/api/pin/?username=mouse484&repo=ecstar)](https://github.com/mouse484/Ecstar)
-[![Ecstar](https://github-readme-stats.vercel.app/api/pin/?username=Ecstar-js&repo=Ecstar)](https://github.com/Ecstar-js/Ecstar)
+[![Ecstar](https://github-readme-stats.vercel.app/api/pin/?username=Ecstarjs&repo=Ecstar)](https://github.com/Ecstarjs/Ecstar)
 
 ### Node.js Setup
 
