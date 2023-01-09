@@ -13,3 +13,4 @@ jobs:
       - uses: kawamataryo/lapras-card-readme@main
         with:
           SHARE_ID: "mouse_484"
+          UPDATE_TIME: false
