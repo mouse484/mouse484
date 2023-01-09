@@ -41,18 +41,3 @@ Other        1 hr 2 mins     ███▒░░░░░░░░░░░░░
 <a href="https://lapras.com/public/mouse_484" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.88&b=2.85&i=3.41&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>
 <!--END_SECTION:lapras-card-->
 
-
-# Working
-
-### Discord.js Framework
-
-[![Ecstar](https://github-readme-stats.vercel.app/api/pin/?username=mouse484&repo=ecstar)](https://github.com/mouse484/Ecstar)
-[![Ecstar](https://github-readme-stats.vercel.app/api/pin/?username=Ecstarjs&repo=Ecstar)](https://github.com/Ecstarjs/Ecstar)
-
-### Node.js Setup
-
-[![My Node Setup Next](https://github-readme-stats.vercel.app/api/pin/?username=mouse484&repo=my-node-setup-next)](https://github.com/mouse484/my-node-setup-next)
-
-### ESLint Config
-
-[![ESLint Config](https://github-readme-stats.vercel.app/api/pin/?username=mouse484&repo=eslint-config)](https://github.com/mouse484/eslint-config)
