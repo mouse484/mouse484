@@ -12,3 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: 'https://zenn.dev/mouse_484/feed'
+          max_post_count: 15
