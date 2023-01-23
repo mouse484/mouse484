@@ -30,9 +30,11 @@ I'm mouse from japan.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 42 mins   ███████████████▓░░░░░░░░░   62.18 %
-Svelte       1 hr 56 mins    ████████░░░░░░░░░░░░░░░░░   32.58 %
-Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+TypeScript   2 hrs 14 mins   █████████████░░░░░░░░░░░░   51.69 %
+Svelte       1 hr 57 mins    ███████████▒░░░░░░░░░░░░░   45.15 %
+JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
