@@ -30,11 +30,11 @@ I'm mouse from japan.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      10 hrs 8 mins   ███████████████████▓░░░░░   78.11 %
-Svelte          1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-YAML            41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-Apache Config   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Markdown        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+TypeScript      9 hrs 55 mins   ███████████████████▓░░░░░   78.67 %
+Svelte          1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+YAML            32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Apache Config   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Markdown        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
