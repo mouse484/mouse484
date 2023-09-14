@@ -30,11 +30,11 @@ I'm mouse from japan.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          1 hr 58 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.71 %
-TypeScript        1 hr 55 mins    █████░░░░░░░░░░░░░░░░░░░░   20.21 %
-Groovy            1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-XML               47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-JavaScript        41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+TypeScript        2 hrs 19 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
+Markdown          2 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
+Groovy            1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+XML               49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+JSON              48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
 ```
 
 <!--END_SECTION:waka-->
