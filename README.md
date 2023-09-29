@@ -39,6 +39,6 @@ JSON              1 hr 38 mins    ██▒░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/mouse_484" target="_blank" rel="noopener noreferrer"><img alt="mouse_484のLAPRASでのスコアは次の通りです: エンジニアリング: 3.82 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 3.36 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.82&b=3.36&i=3.36&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a></p>
+<p ><a href="https://lapras.com/public/mouse_484" target="_blank" rel="noopener noreferrer"><img alt="mouse_484のLAPRASでのスコアは次の通りです: エンジニアリング: 3.91 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 3.54 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.91&b=3.36&i=3.54&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
 
