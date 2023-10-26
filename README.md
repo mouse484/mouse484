@@ -30,11 +30,11 @@ I'm mouse from japan.
 <!--START_SECTION:waka-->
 
 ```txt
-Cheetah           4 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
-JavaScript        3 hrs 55 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
-TypeScript        3 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
-JSON              3 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
-Bash              2 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+Cheetah           4 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
+JavaScript        3 hrs 55 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
+TypeScript        3 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
+JSON              3 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+Svelte            1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
 ```
 
 <!--END_SECTION:waka-->
