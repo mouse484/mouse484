@@ -30,11 +30,11 @@ I'm mouse from japan.
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              3 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   24.55 %
-Blade Template   3 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
-Svelte           1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-TypeScript       1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
-YAML             1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+PHP              3 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.24 %
+Blade Template   3 hrs 21 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
+Svelte           1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+TypeScript       1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Java             1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
 ```
 
 <!--END_SECTION:waka-->
