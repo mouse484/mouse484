@@ -25,19 +25,11 @@ I'm mouse from japan.
 
 # Stats
 
-![Mouse's github stats](https://github-readme-stats.vercel.app/api?username=mouse484&show_icons=true&line_height=24) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouse484&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=mouse484&show_icons=true&line_height=24&custom_title=mouse_484's%20GitHub%20Stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouse484&layout=compact&langs_count=8)
 
-<!--START_SECTION:waka-->
+![Waka stats](https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.dev&username=mouse&layout=compact&custom_title=WakaTime%20Week%20Stats)
 
-```txt
-PHP              4 hrs 57 mins   ██████████▒░░░░░░░░░░░░░░   41.09 %
-Svelte           1 hr 36 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
-Java             1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
-Bash             58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-TypeScript       50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-```
 
-<!--END_SECTION:waka-->
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/mouse_484" target="_blank" rel="noopener noreferrer"><img alt="mouse_484のLAPRASでのスコアは次の通りです: エンジニアリング: 3.91 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 3.54 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.91&b=3.36&i=3.54&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
