@@ -7,7 +7,5 @@ I'm mouse from japan.
 
 # Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=mouse484&show_icons=true&line_height=24&custom_title=mouse_484's%20GitHub%20Stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouse484&layout=compact&langs_count=8)
-
-![Waka stats](https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.dev&username=mouse&layout=compact&custom_title=WakaTime%20Week%20Stats)
-
+![GitHub Stats](./assets/stats.svg)
+![Top Langs](./assets/top-langs.svg)
